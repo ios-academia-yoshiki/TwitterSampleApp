@@ -1,0 +1,2 @@
+#TwitterSampleApp作成
+-Github上にRepositoryを作成して管理
